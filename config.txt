@@ -1,7 +1,7 @@
 {
-	"7$Zk@xQ9!p2L#r5G&s8V*m0B%t3D^w6H&j1R": "1"
-	"!a3K$z7P&f9T#v2X%s5M*q8Y+d0C^r3E&b6J": "0"
-	"9&Rh!t4F$y7S#g2N*m5D^k8L-x1Q%z3W&p6V": "0"
-	"$2We!r6H&n9U#d3B*m7G^j1T+s4Z%v8Y&l0P": "0"
-	"!5Xq$b8J&v3R#f6M*m9D^s2K-t7A%z4F&g1L": "0"
+    "7$Zk@xQ9!p2L#r5G&s8V*m0B%t3D^w6H&j1R": "1",
+    "!a3K$z7P&f9T#v2X%s5M*q8Y+d0C^r3E&b6J": "0",
+    "9&Rh!t4F$y7S#g2N*m5D^k8L-x1Q%z3W&p6V": "0",
+    "$2We!r6H&n9U#d3B*m7G^j1T+s4Z%v8Y&l0P": "0",
+    "!5Xq$b8J&v3R#f6M*m9D^s2K-t7A%z4F&g1L": "0"
 }
